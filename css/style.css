@@ -1,0 +1,19 @@
+body{font-family: 'Roboto', sans-serif; margin:22px;}
+h1, h3, p{font-weight:300;}
+
+#name{
+	color: #b8dbd3;
+	width:100%;
+	text-align:left;
+
+}
+
+#bio{
+	color: #90a0aa;
+	text-align:justify;
+}
+
+#editor{
+	color: #F5EF49;
+	text-align:right;
+}
